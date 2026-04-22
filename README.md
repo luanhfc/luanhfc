@@ -1,7 +1,7 @@
 # Olá, eu sou Luan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code.*alt="Typing SVG" />|<img src="https://readme-typing-svg.demolab.com/demo/?font=Oooh+Baby\&size=30\&duration=1000\&color=2EB0F7\&background=FFFFFF00\&vCenter=true\&repeat=false\&separator=%3C\&lines=Dev+javascript%3CSeguindo+uma+jornada+dev+aprendiz;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?font=Oooh+Baby&size=30&duration=1000&color=2EB0F7&background=FFFFFF00&vCenter=true&repeat=false&separator=%3C&lines=Dev+javascript%3CSeguindo+uma+jornada+dev+aprendiz;" alt="Typing SVG" />
 </div>
 
 ---
