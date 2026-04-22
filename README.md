@@ -1,7 +1,7 @@
 # Olá, eu sou Luan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?font=Oooh+Baby&size=30&duration=1000&color=2EB0F7&background=FFFFFF00&vCenter=true&repeat=false&separator=%3C&lines=Dev+javascript%3CSeguindo+uma+jornada+dev+aprendiz;" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
 </div>
 
 ---
@@ -28,5 +28,4 @@
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luanhfc&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-</div>
+  <img src=
