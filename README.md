@@ -1,7 +1,7 @@
 # Olá, eu sou Luan 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+  <img src="https://media.giphy.com/media/pY8jLmZw0ElqvVeRH4/giphy.gif" width="400" alt="coding gif" />
 </div>
 
 ---
@@ -28,4 +28,5 @@
 ## 🔥 Streak
 
 <div align="center">
-  <img src=
+  <img src="https://streak-stats.demolab.com?user=luanhfc&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+</div>
