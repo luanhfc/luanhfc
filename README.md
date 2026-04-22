@@ -6,7 +6,7 @@
 
 ---
 
-## 🐍 Minha jornada de contribuições
+## 🤗 Minha jornada de contribuições 🤗
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanhfc/luanhfc/output/github-snake-dark.svg" />
