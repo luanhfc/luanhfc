@@ -1,8 +1,7 @@
 # Olá, aqui você acompanhará minha jornada dev.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/pY8jLmZw0ElqvVeRH4/giphy.gif" width="250" alt="gatinho gif" />
-  <img src="https://media.giphy.com/media/vPzbDN4rBxuvtpSpzF/giphy.gif" width="250" alt="gatinho 2 gif" />
+  <img src="banner-git.jpg" width="100%" height="200px" alt="banner pixel art">
 </div>
 
 ---
