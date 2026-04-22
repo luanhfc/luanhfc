@@ -1,4 +1,4 @@
-# Olá, me chamo Luan e aqui você acompanha minha jornada dev.
+# Olá, aqui você acompanhará minha jornada dev.
 
 <div align="center">
   <img src="https://media.giphy.com/media/pY8jLmZw0ElqvVeRH4/giphy.gif" width="200" alt="coding gif" />
