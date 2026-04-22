@@ -1,4 +1,4 @@
-# Olá, eu sou Luan 👋
+# Olá, me chamo Luan 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/pY8jLmZw0ElqvVeRH4/giphy.gif" width="400" alt="coding gif" />
