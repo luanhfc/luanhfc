@@ -1,12 +1,13 @@
-# Olá, eu sou Luan 👋
+# Olá, aqui você acompanhará minha jornada dev.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/pY8jLmZw0ElqvVeRH4/giphy.gif" width="400" alt="coding gif" />
+  <img src="https://media.giphy.com/media/pY8jLmZw0ElqvVeRH4/giphy.gif" width="350" alt="gatinho gif" />
+  <img src="https://media.giphy.com/media/vPzbDN4rBxuvtpSpzF/giphy.gif" width="350" alt="gatinho 2 gif" />
 </div>
 
 ---
 
-## 🐍 Minha jornada de contribuições
+## 🐍 Minha jornada de contribuições 🤗
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanhfc/luanhfc/output/github-snake-dark.svg" />
