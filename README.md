@@ -1,6 +1,8 @@
 # Olá, aqui você acompanhará minha jornada dev.
 
-<div style="width: 100%; height: 200px; background-image: url('banner-git.jpg'); background-size: cover; background-position: center;"></div>
+<div align="center">
+  <img src="banner-git.jpg" width="100%" alt="banner pixel art">
+</div>
 
 ---
 
